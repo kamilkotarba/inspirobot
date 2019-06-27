@@ -1,13 +1,19 @@
 body {
-
+  background: url("../images/page-image.jpg");
+  background-size: cover;
 }
 #getImageButton {
-  border-radius: 5px;
-  background-color: azure;
-  border-style: solid;
+  color: #64C8BD;
+  background: url("../images/button-image.jpg");
+  background-size: cover;
+  border-radius: 80px;
+  border-style: outset;
+  border-width: 5px;
+  border-color: #094A6F;
   text-align: justify;
-  font-size: 50px;
-}
+  font-family: merienda, cursive;
+  font-size: 45px;
+ }
 #button-container {
   display: flex;
   flex-direction: row;
@@ -18,4 +24,13 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  padding: 50px 0px;
+  margin-top: 50px;
+  width: 940px;
+  height: 600px;
+  align-items: center;
+}
+#image {
+  width: 65%;
+  height: auto;
 }
