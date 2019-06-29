@@ -13,6 +13,10 @@ body {
   text-align: justify;
   font-family: merienda, cursive;
   font-size: 45px;
+  outline: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
  }
 #button-container {
   display: flex;
@@ -26,11 +30,9 @@ body {
   justify-content: center;
   padding: 50px 0px;
   margin-top: 50px;
-  width: 940px;
-  height: 600px;
   align-items: center;
 }
 #image {
-  width: 65%;
-  height: auto;
+  width: 10%;
+  height: auto%;
 }
