@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="919d7c77-0742-4785-849f-4c2b864f2ead" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/styles/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/main.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -49,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/styles/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="595">
+              <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -98,7 +95,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="603" />
+    <option name="x" value="937" />
     <option name="width" value="980" />
     <option name="height" value="1047" />
   </component>
@@ -107,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,7 +133,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,14 +176,15 @@
       <workItem from="1561565816260" duration="10470000" />
       <workItem from="1561642017412" duration="8265000" />
       <workItem from="1561823594746" duration="746000" />
+      <workItem from="1562081619677" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19481000" />
+    <option name="totallyTimeSpent" value="19513000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="947" y="0" width="980" height="1047" extended-state="0" />
+    <frame x="937" y="0" width="980" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1433121" />
@@ -240,8 +238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="595">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
         </state>
       </provider>
     </entry>
